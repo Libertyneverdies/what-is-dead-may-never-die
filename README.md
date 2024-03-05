@@ -1,3 +1,4 @@
-# Clash 相关备份
-# 由于删库影响重大，在此备份一些Clash相关文件
-# FUCK GFW
+# What is dead may never die!
+![](what-is-dead-may-never-die.gif)
+
+This repository holds remnants of some projects for the good of humanity.
